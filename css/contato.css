@@ -1,0 +1,91 @@
+.interna-contato {
+	background: url("../img/backgrounds/bg-contato.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.contato {
+	padding: 60px 0;
+}
+
+.contato-form {
+	padding-right: 60px;
+}
+
+.contato-form label {
+	display: block;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 3px;
+}
+
+.contato-form input, .contato-form textarea {
+	display: block;
+	width: 100%;
+	border-color: #FEC63E;
+	border-style: solid;
+	border-width: 3px;
+	background: none;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 14px;
+	padding: 7px 10px;
+	outline: none;
+	margin-bottom: 10px;
+}
+
+.contato-form textarea {
+	resize: none;
+	height: 120px;
+	margin-bottom: 20px;
+}
+
+.contato-form .btn {
+	background-color: #fff;
+	padding: 7px 40px;
+}
+
+.contato-dados h3 {
+	color: #FEC63E;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+.contato-dados span {
+	display: block;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.contato-dados span:nth-of-type(even) {
+	margin-bottom: 30px;
+}
+
+.contato-dados ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.contato-dados ul li a {
+	display: block;
+	padding: 10px; 
+	border: 3px solid #FEC63E;
+}
+
+.contato-dados ul li a:hover {
+	background-color: #DDD9;
+	box-shadow: 0 0 10px #333;
+}
+
+.endereco {
+	padding-bottom: 60px;
+}
+
+
+
+
+
